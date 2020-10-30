@@ -1,0 +1,16 @@
+{
+  "name": "nvidia-test",
+  "version": "1.0.0",
+  "description": "test example",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test-ci": "cypress run"
+  },
+  "author": "Natalia Deriuzhova",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.8.3"
+  }
+}
